@@ -1,4 +1,4 @@
-Added header MASTER
+Header
 
 Hello world!
 
